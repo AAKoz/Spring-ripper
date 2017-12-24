@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-ripper.iml" filepath="$PROJECT_DIR$/.idea/Spring-ripper.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-ripper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-ripper_main.iml" group="spring-ripper" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-ripper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-ripper_test.iml" group="spring-ripper" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-ripper.iml" filepath="$PROJECT_DIR$/Spring-ripper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring-ripper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring-ripper_main.iml" group="Spring-ripper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring-ripper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring-ripper_test.iml" group="Spring-ripper" />
     </modules>
   </component>
 </project>

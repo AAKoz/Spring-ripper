@@ -2,10 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="com.epam.spring_main" target="1.8" />
-      <module name="com.epam.spring_test" target="1.8" />
-      <module name="spring-ripper_main" target="1.8" />
-      <module name="spring-ripper_test" target="1.8" />
+      <module name="Spring-ripper_main" target="1.8" />
+      <module name="Spring-ripper_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

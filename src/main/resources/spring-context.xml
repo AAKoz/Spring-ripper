@@ -5,6 +5,7 @@
         	   					   http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean class=" com.epam.spring.TerminatorQuoter" id="terminatorQuoter">
-        <property name="message" value="I'll be back"/>
+        <property name="message" value="I'll be back, baby"/>
     </bean>
+    <bean class="com.epam.spring.postprocessor.InjectRandomIntAnnotationBeanPostProcessor"/>
 </beans>
