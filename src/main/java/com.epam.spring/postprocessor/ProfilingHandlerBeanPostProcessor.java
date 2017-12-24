@@ -1,6 +1,6 @@
 package com.epam.spring.postprocessor;
 
-import com.epam.spring.ProfilingController;
+import com.epam.spring.profile.ProfilingController;
 import com.epam.spring.annotations.Profiling;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

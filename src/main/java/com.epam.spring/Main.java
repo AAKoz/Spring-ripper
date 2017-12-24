@@ -1,5 +1,6 @@
 package com.epam.spring;
 
+import com.epam.spring.robots.Quoter;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Main {
